@@ -19,7 +19,7 @@ Ensure you have the following installed:
 2. Make the setup script executable and run it:
     ```sh
     chmod +x privatenft.sh
-    ./private.sh
+    ./privatenft.sh
     ```
 
 3. Follow the prompts to enter your private key and NFT details.
