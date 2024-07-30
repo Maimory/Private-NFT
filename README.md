@@ -12,13 +12,13 @@ Ensure you have the following installed:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/dante4rt/swisstronik-private-erc721.git
-    cd swisstronik-private-erc721
+    git clone https://github.com/Maimory/Private-NFT.git
+    cd swisstronik-privatenft
     ```
 
 2. Make the setup script executable and run it:
     ```sh
-    chmod +x private.sh
+    chmod +x privatenft.sh
     ./private.sh
     ```
 
